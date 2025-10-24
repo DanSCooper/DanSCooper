@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanSCooper
-- 👀 I’m interested in ... Html, CSS, JS, & Python
-- 🌱 I’m currently learning ... Html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... C++ & Python
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... Hexapod Robots
 - 📫 How to reach me ...
 
 <!---
